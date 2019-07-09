@@ -1,0 +1,4 @@
+voila==0.1.6
+ipywidgets==7.5
+pygments==2.4.1
+pandas
